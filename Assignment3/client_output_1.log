@@ -1,0 +1,48 @@
+[2024-09-08 18:41:39.498] Connected to server.
+[2024-09-08 18:41:39.498] Correct ACK (ACK 1) received.
+[2024-09-08 18:41:39.498] ACK received for packet 1
+[2024-09-08 18:41:39.498] Slow start phase: cwnd doubled to 2
+[2024-09-08 18:41:39.498] Successfully sent packet 1 with compressed size 69 bytes.
+[2024-09-08 18:41:40.499] Correct ACK (ACK 2) received.
+[2024-09-08 18:41:40.499] ACK received for packet 2
+[2024-09-08 18:41:40.499] Slow start phase: cwnd doubled to 4
+[2024-09-08 18:41:40.499] Successfully sent packet 2 with compressed size 70 bytes.
+[2024-09-08 18:41:43.502] Timeout occurred waiting for ACK.
+[2024-09-08 18:41:43.502] Retransmitting packet 3 (Retry #1)
+[2024-09-08 18:41:43.502] Packet loss detected. Resetting cwnd to 1 and ssthresh to 2
+[2024-09-08 18:41:43.503] Correct ACK (ACK 3) received.
+[2024-09-08 18:41:43.503] ACK received for packet 3
+[2024-09-08 18:41:43.503] Slow start phase: cwnd doubled to 2
+[2024-09-08 18:41:43.503] Successfully sent packet 3 with compressed size 69 bytes.
+[2024-09-08 18:41:46.505] Timeout occurred waiting for ACK.
+[2024-09-08 18:41:46.505] Retransmitting packet 4 (Retry #1)
+[2024-09-08 18:41:46.505] Packet loss detected. Resetting cwnd to 1 and ssthresh to 1
+[2024-09-08 18:41:46.506] Correct ACK (ACK 4) received.
+[2024-09-08 18:41:46.506] ACK received for packet 4
+[2024-09-08 18:41:46.506] Congestion avoidance phase: cwnd increased to 2
+[2024-09-08 18:41:46.506] Successfully sent packet 4 with compressed size 70 bytes.
+[2024-09-08 18:41:47.507] Correct ACK (ACK 5) received.
+[2024-09-08 18:41:47.507] ACK received for packet 5
+[2024-09-08 18:41:47.507] Congestion avoidance phase: cwnd increased to 3
+[2024-09-08 18:41:47.507] Successfully sent packet 5 with compressed size 69 bytes.
+[2024-09-08 18:41:48.508] Correct ACK (ACK 6) received.
+[2024-09-08 18:41:48.508] ACK received for packet 6
+[2024-09-08 18:41:48.508] Congestion avoidance phase: cwnd increased to 4
+[2024-09-08 18:41:48.508] Successfully sent packet 6 with compressed size 67 bytes.
+[2024-09-08 18:41:49.508] Correct ACK (ACK 7) received.
+[2024-09-08 18:41:49.508] ACK received for packet 7
+[2024-09-08 18:41:49.509] Congestion avoidance phase: cwnd increased to 5
+[2024-09-08 18:41:49.509] Successfully sent packet 7 with compressed size 68 bytes.
+[2024-09-08 18:41:50.509] Correct ACK (ACK 8) received.
+[2024-09-08 18:41:50.510] ACK received for packet 8
+[2024-09-08 18:41:50.510] Congestion avoidance phase: cwnd increased to 6
+[2024-09-08 18:41:50.510] Successfully sent packet 8 with compressed size 69 bytes.
+[2024-09-08 18:41:51.511] Correct ACK (ACK 9) received.
+[2024-09-08 18:41:51.511] ACK received for packet 9
+[2024-09-08 18:41:51.511] Congestion avoidance phase: cwnd increased to 7
+[2024-09-08 18:41:51.511] Successfully sent packet 9 with compressed size 69 bytes.
+[2024-09-08 18:41:52.511] Correct ACK (ACK 10) received.
+[2024-09-08 18:41:52.512] ACK received for packet 10
+[2024-09-08 18:41:52.512] Congestion avoidance phase: cwnd increased to 8
+[2024-09-08 18:41:52.512] Successfully sent packet 10 with compressed size 69 bytes.
+[2024-09-08 18:41:53.512] All data packets sent. Closing connection.

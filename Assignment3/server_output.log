@@ -1,0 +1,220 @@
+[2024-09-08 18:41:34.686] Server started on port 8090
+[2024-09-08 18:41:39.498] New client connected. Client ID: 1
+[2024-09-08 18:41:39.498] New client connected. Client ID: 2
+[2024-09-08 18:41:39.498] New client connected. Client ID: 3
+[2024-09-08 18:41:39.498] New client connected. Client ID: 4
+[2024-09-08 18:41:39.498] New client connected. Client ID: 5
+[2024-09-08 18:41:39.498] Simulating packet loss for Packet 1 from Client 3
+[2024-09-08 18:41:39.498] Received Packet 1 from Client 1
+[2024-09-08 18:41:39.498] Sent ACK for Packet 1 to Client 1
+[2024-09-08 18:41:39.498] Received Packet 1 from Client 2
+[2024-09-08 18:41:39.498] Sent ACK for Packet 1 to Client 2
+[2024-09-08 18:41:39.499] Received Packet 1 from Client 4
+[2024-09-08 18:41:39.499] Sent ACK for Packet 1 to Client 4
+[2024-09-08 18:41:39.499] Received Packet 1 from Client 5
+[2024-09-08 18:41:39.499] Sent ACK for Packet 1 to Client 5
+[2024-09-08 18:41:39.568] Client 1 sent weather data: Temperature: 36.710000C, Humidity: 48.610000%, Pressure: 1092.180000hPa
+[2024-09-08 18:41:39.568] Compressed size: 69 bytes, Decompressed size: 71 bytes.
+[2024-09-08 18:41:39.568] Client 4 sent weather data: Temperature: 36.710000C, Humidity: 48.610000%, Pressure: 1092.180000hPa
+[2024-09-08 18:41:39.568] Compressed size: 69 bytes, Decompressed size: 71 bytes.
+[2024-09-08 18:41:39.568] Client 2 sent weather data: Temperature: 36.710000C, Humidity: 48.610000%, Pressure: 1092.180000hPa
+[2024-09-08 18:41:39.568] Compressed size: 69 bytes, Decompressed size: 71 bytes.
+[2024-09-08 18:41:39.568] Client 5 sent weather data: Temperature: 36.710000C, Humidity: 48.610000%, Pressure: 1092.180000hPa
+[2024-09-08 18:41:39.568] Compressed size: 69 bytes, Decompressed size: 71 bytes.
+[2024-09-08 18:41:40.499] Received Packet 2 from Client 1
+[2024-09-08 18:41:40.499] Sent ACK for Packet 2 to Client 1
+[2024-09-08 18:41:40.499] Simulating packet loss for Packet 2 from Client 5
+[2024-09-08 18:41:40.499] Received Packet 2 from Client 2
+[2024-09-08 18:41:40.500] Sent ACK for Packet 2 to Client 2
+[2024-09-08 18:41:40.500] Received Packet 2 from Client 4
+[2024-09-08 18:41:40.500] Sent ACK for Packet 2 to Client 4
+[2024-09-08 18:41:40.570] Client 1 sent weather data: Temperature: 32.710000C, Humidity: 48.040000%, Pressure: 1089.750000hPa
+[2024-09-08 18:41:40.570] Compressed size: 70 bytes, Decompressed size: 71 bytes.
+[2024-09-08 18:41:40.570] Client 2 sent weather data: Temperature: 32.710000C, Humidity: 48.040000%, Pressure: 1089.750000hPa
+[2024-09-08 18:41:40.570] Compressed size: 70 bytes, Decompressed size: 71 bytes.
+[2024-09-08 18:41:40.570] Client 4 sent weather data: Temperature: 32.710000C, Humidity: 48.040000%, Pressure: 1089.750000hPa
+[2024-09-08 18:41:40.571] Compressed size: 70 bytes, Decompressed size: 71 bytes.
+[2024-09-08 18:41:41.500] Simulating packet loss for Packet 3 from Client 1
+[2024-09-08 18:41:41.500] Received Packet 3 from Client 2
+[2024-09-08 18:41:41.500] Sent ACK for Packet 3 to Client 2
+[2024-09-08 18:41:41.501] Received Packet 1 from Client 3
+[2024-09-08 18:41:41.501] Sent ACK for Packet 1 to Client 3
+[2024-09-08 18:41:41.501] Received Packet 3 from Client 4
+[2024-09-08 18:41:41.501] Sent ACK for Packet 3 to Client 4
+[2024-09-08 18:41:42.191] Client 2 sent weather data: Temperature: 30.610000C, Humidity: 59.350000%, Pressure: 956.030000hPa
+[2024-09-08 18:41:42.191] Compressed size: 69 bytes, Decompressed size: 70 bytes.
+[2024-09-08 18:41:42.191] Client 3 sent weather data: Temperature: 36.710000C, Humidity: 48.610000%, Pressure: 1092.180000hPa
+[2024-09-08 18:41:42.191] Compressed size: 69 bytes, Decompressed size: 71 bytes.
+[2024-09-08 18:41:42.191] Client 4 sent weather data: Temperature: 30.610000C, Humidity: 59.350000%, Pressure: 956.030000hPa
+[2024-09-08 18:41:42.191] Compressed size: 69 bytes, Decompressed size: 70 bytes.
+[2024-09-08 18:41:42.501] Simulating packet loss for Packet 4 from Client 2
+[2024-09-08 18:41:42.502] Received Packet 2 from Client 5
+[2024-09-08 18:41:42.502] Sent ACK for Packet 2 to Client 5
+[2024-09-08 18:41:42.502] Received Packet 2 from Client 3
+[2024-09-08 18:41:42.502] Sent ACK for Packet 2 to Client 3
+[2024-09-08 18:41:42.502] Received Packet 4 from Client 4
+[2024-09-08 18:41:42.502] Sent ACK for Packet 4 to Client 4
+[2024-09-08 18:41:42.572] Client 5 sent weather data: Temperature: 32.710000C, Humidity: 48.040000%, Pressure: 1089.750000hPa
+[2024-09-08 18:41:42.572] Compressed size: 70 bytes, Decompressed size: 71 bytes.
+[2024-09-08 18:41:42.573] Client 3 sent weather data: Temperature: 32.710000C, Humidity: 48.040000%, Pressure: 1089.750000hPa
+[2024-09-08 18:41:42.573] Compressed size: 70 bytes, Decompressed size: 71 bytes.
+[2024-09-08 18:41:42.573] Client 4 sent weather data: Temperature: 21.640000C, Humidity: 58.990000%, Pressure: 1067.880000hPa
+[2024-09-08 18:41:42.573] Compressed size: 70 bytes, Decompressed size: 71 bytes.
+[2024-09-08 18:41:43.503] Received Packet 3 from Client 1
+[2024-09-08 18:41:43.503] Sent ACK for Packet 3 to Client 1
+[2024-09-08 18:41:43.503] Received Packet 3 from Client 5
+[2024-09-08 18:41:43.503] Sent ACK for Packet 3 to Client 5
+[2024-09-08 18:41:43.503] Simulating packet loss for Packet 3 from Client 3
+[2024-09-08 18:41:43.503] Received Packet 5 from Client 4
+[2024-09-08 18:41:43.503] Sent ACK for Packet 5 to Client 4
+[2024-09-08 18:41:44.193] Client 1 sent weather data: Temperature: 30.610000C, Humidity: 59.350000%, Pressure: 956.030000hPa
+[2024-09-08 18:41:44.193] Compressed size: 69 bytes, Decompressed size: 70 bytes.
+[2024-09-08 18:41:44.193] Client 5 sent weather data: Temperature: 30.610000C, Humidity: 59.350000%, Pressure: 956.030000hPa
+[2024-09-08 18:41:44.193] Compressed size: 69 bytes, Decompressed size: 70 bytes.
+[2024-09-08 18:41:44.194] Client 4 sent weather data: Temperature: 23.110000C, Humidity: 50.840000%, Pressure: 979.200000hPa
+[2024-09-08 18:41:44.194] Compressed size: 69 bytes, Decompressed size: 70 bytes.
+[2024-09-08 18:41:44.501] Received Packet 4 from Client 2
+[2024-09-08 18:41:44.502] Sent ACK for Packet 4 to Client 2
+[2024-09-08 18:41:44.503] Simulating packet loss for Packet 4 from Client 1
+[2024-09-08 18:41:44.503] Received Packet 4 from Client 5
+[2024-09-08 18:41:44.504] Sent ACK for Packet 4 to Client 5
+[2024-09-08 18:41:44.504] Received Packet 6 from Client 4
+[2024-09-08 18:41:44.504] Sent ACK for Packet 6 to Client 4
+[2024-09-08 18:41:44.571] Client 4 sent weather data: Temperature: 33.600000C, Humidity: 31.490000%, Pressure: 914.050000hPa
+[2024-09-08 18:41:44.571] Compressed size: 67 bytes, Decompressed size: 70 bytes.
+[2024-09-08 18:41:44.572] Client 2 sent weather data: Temperature: 21.640000C, Humidity: 58.990000%, Pressure: 1067.880000hPa
+[2024-09-08 18:41:44.572] Compressed size: 70 bytes, Decompressed size: 71 bytes.
+[2024-09-08 18:41:44.574] Client 5 sent weather data: Temperature: 21.640000C, Humidity: 58.990000%, Pressure: 1067.880000hPa
+[2024-09-08 18:41:44.574] Compressed size: 70 bytes, Decompressed size: 71 bytes.
+[2024-09-08 18:41:45.502] Received Packet 5 from Client 2
+[2024-09-08 18:41:45.502] Sent ACK for Packet 5 to Client 2
+[2024-09-08 18:41:45.504] Received Packet 5 from Client 5
+[2024-09-08 18:41:45.504] Sent ACK for Packet 5 to Client 5
+[2024-09-08 18:41:45.505] Simulating packet loss for Packet 7 from Client 4
+[2024-09-08 18:41:45.505] Received Packet 3 from Client 3
+[2024-09-08 18:41:45.505] Sent ACK for Packet 3 to Client 3
+[2024-09-08 18:41:46.193] Client 2 sent weather data: Temperature: 23.110000C, Humidity: 50.840000%, Pressure: 979.200000hPa
+[2024-09-08 18:41:46.193] Compressed size: 69 bytes, Decompressed size: 70 bytes.
+[2024-09-08 18:41:46.195] Client 5 sent weather data: Temperature: 23.110000C, Humidity: 50.840000%, Pressure: 979.200000hPa
+[2024-09-08 18:41:46.195] Compressed size: 69 bytes, Decompressed size: 70 bytes.
+[2024-09-08 18:41:46.196] Client 3 sent weather data: Temperature: 30.610000C, Humidity: 59.350000%, Pressure: 956.030000hPa
+[2024-09-08 18:41:46.196] Compressed size: 69 bytes, Decompressed size: 70 bytes.
+[2024-09-08 18:41:46.503] Received Packet 6 from Client 2
+[2024-09-08 18:41:46.503] Sent ACK for Packet 6 to Client 2
+[2024-09-08 18:41:46.505] Received Packet 6 from Client 5
+[2024-09-08 18:41:46.505] Sent ACK for Packet 6 to Client 5
+[2024-09-08 18:41:46.506] Received Packet 4 from Client 1
+[2024-09-08 18:41:46.506] Sent ACK for Packet 4 to Client 1
+[2024-09-08 18:41:46.506] Received Packet 4 from Client 3
+[2024-09-08 18:41:46.506] Sent ACK for Packet 4 to Client 3
+[2024-09-08 18:41:46.571] Client 2 sent weather data: Temperature: 33.600000C, Humidity: 31.490000%, Pressure: 914.050000hPa
+[2024-09-08 18:41:46.571] Compressed size: 67 bytes, Decompressed size: 70 bytes.
+[2024-09-08 18:41:46.572] Client 5 sent weather data: Temperature: 33.600000C, Humidity: 31.490000%, Pressure: 914.050000hPa
+[2024-09-08 18:41:46.572] Compressed size: 67 bytes, Decompressed size: 70 bytes.
+[2024-09-08 18:41:46.576] Client 1 sent weather data: Temperature: 21.640000C, Humidity: 58.990000%, Pressure: 1067.880000hPa
+[2024-09-08 18:41:46.576] Compressed size: 70 bytes, Decompressed size: 71 bytes.
+[2024-09-08 18:41:46.576] Client 3 sent weather data: Temperature: 21.640000C, Humidity: 58.990000%, Pressure: 1067.880000hPa
+[2024-09-08 18:41:46.577] Compressed size: 70 bytes, Decompressed size: 71 bytes.
+[2024-09-08 18:41:47.504] Received Packet 7 from Client 2
+[2024-09-08 18:41:47.505] Sent ACK for Packet 7 to Client 2
+[2024-09-08 18:41:47.506] Simulating packet loss for Packet 7 from Client 4
+[2024-09-08 18:41:47.506] Received Packet 7 from Client 5
+[2024-09-08 18:41:47.506] Sent ACK for Packet 7 to Client 5
+[2024-09-08 18:41:47.506] Received Packet 5 from Client 1
+[2024-09-08 18:41:47.507] Sent ACK for Packet 5 to Client 1
+[2024-09-08 18:41:47.507] Received Packet 5 from Client 3
+[2024-09-08 18:41:47.507] Sent ACK for Packet 5 to Client 3
+[2024-09-08 18:41:47.573] Client 2 sent weather data: Temperature: 30.620000C, Humidity: 69.230000%, Pressure: 997.720000hPa
+[2024-09-08 18:41:47.573] Compressed size: 68 bytes, Decompressed size: 70 bytes.
+[2024-09-08 18:41:47.574] Client 5 sent weather data: Temperature: 30.620000C, Humidity: 69.230000%, Pressure: 997.720000hPa
+[2024-09-08 18:41:47.574] Compressed size: 68 bytes, Decompressed size: 70 bytes.
+[2024-09-08 18:41:47.576] Client 1 sent weather data: Temperature: 23.110000C, Humidity: 50.840000%, Pressure: 979.200000hPa
+[2024-09-08 18:41:47.576] Compressed size: 69 bytes, Decompressed size: 70 bytes.
+[2024-09-08 18:41:47.576] Client 3 sent weather data: Temperature: 23.110000C, Humidity: 50.840000%, Pressure: 979.200000hPa
+[2024-09-08 18:41:47.576] Compressed size: 69 bytes, Decompressed size: 70 bytes.
+[2024-09-08 18:41:48.505] Received Packet 8 from Client 2
+[2024-09-08 18:41:48.506] Sent ACK for Packet 8 to Client 2
+[2024-09-08 18:41:48.507] Received Packet 8 from Client 5
+[2024-09-08 18:41:48.507] Sent ACK for Packet 8 to Client 5
+[2024-09-08 18:41:48.507] Received Packet 6 from Client 1
+[2024-09-08 18:41:48.507] Sent ACK for Packet 6 to Client 1
+[2024-09-08 18:41:48.508] Received Packet 6 from Client 3
+[2024-09-08 18:41:48.508] Sent ACK for Packet 6 to Client 3
+[2024-09-08 18:41:48.575] Client 1 sent weather data: Temperature: 33.600000C, Humidity: 31.490000%, Pressure: 914.050000hPa
+[2024-09-08 18:41:48.575] Compressed size: 67 bytes, Decompressed size: 70 bytes.
+[2024-09-08 18:41:48.575] Client 2 sent weather data: Temperature: 34.880000C, Humidity: 63.120000%, Pressure: 914.160000hPa
+[2024-09-08 18:41:48.575] Compressed size: 69 bytes, Decompressed size: 70 bytes.
+[2024-09-08 18:41:48.575] Client 3 sent weather data: Temperature: 33.600000C, Humidity: 31.490000%, Pressure: 914.050000hPa
+[2024-09-08 18:41:48.575] Compressed size: 67 bytes, Decompressed size: 70 bytes.
+[2024-09-08 18:41:48.576] Client 5 sent weather data: Temperature: 34.880000C, Humidity: 63.120000%, Pressure: 914.160000hPa
+[2024-09-08 18:41:48.576] Compressed size: 69 bytes, Decompressed size: 70 bytes.
+[2024-09-08 18:41:49.506] Simulating packet loss for Packet 9 from Client 2
+[2024-09-08 18:41:49.508] Received Packet 9 from Client 5
+[2024-09-08 18:41:49.508] Sent ACK for Packet 9 to Client 5
+[2024-09-08 18:41:49.508] Received Packet 7 from Client 4
+[2024-09-08 18:41:49.508] Sent ACK for Packet 7 to Client 4
+[2024-09-08 18:41:49.508] Received Packet 7 from Client 1
+[2024-09-08 18:41:49.508] Sent ACK for Packet 7 to Client 1
+[2024-09-08 18:41:49.509] Received Packet 7 from Client 3
+[2024-09-08 18:41:49.509] Sent ACK for Packet 7 to Client 3
+[2024-09-08 18:41:49.576] Client 4 sent weather data: Temperature: 30.620000C, Humidity: 69.230000%, Pressure: 997.720000hPa
+[2024-09-08 18:41:49.576] Compressed size: 68 bytes, Decompressed size: 70 bytes.
+[2024-09-08 18:41:49.577] Client 1 sent weather data: Temperature: 30.620000C, Humidity: 69.230000%, Pressure: 997.720000hPa
+[2024-09-08 18:41:49.577] Compressed size: 68 bytes, Decompressed size: 70 bytes.
+[2024-09-08 18:41:49.577] Client 3 sent weather data: Temperature: 30.620000C, Humidity: 69.230000%, Pressure: 997.720000hPa
+[2024-09-08 18:41:49.577] Compressed size: 68 bytes, Decompressed size: 70 bytes.
+[2024-09-08 18:41:49.577] Client 5 sent weather data: Temperature: 27.630000C, Humidity: 35.780000%, Pressure: 920.400000hPa
+[2024-09-08 18:41:49.577] Compressed size: 69 bytes, Decompressed size: 70 bytes.
+[2024-09-08 18:41:50.509] Received Packet 10 from Client 5
+[2024-09-08 18:41:50.509] Sent ACK for Packet 10 to Client 5
+[2024-09-08 18:41:50.509] Received Packet 8 from Client 4
+[2024-09-08 18:41:50.509] Sent ACK for Packet 8 to Client 4
+[2024-09-08 18:41:50.509] Received Packet 8 from Client 1
+[2024-09-08 18:41:50.509] Sent ACK for Packet 8 to Client 1
+[2024-09-08 18:41:50.510] Received Packet 8 from Client 3
+[2024-09-08 18:41:50.510] Sent ACK for Packet 8 to Client 3
+[2024-09-08 18:41:50.578] Client 5 sent weather data: Temperature: 37.530000C, Humidity: 41.150000%, Pressure: 926.090000hPa
+[2024-09-08 18:41:50.578] Compressed size: 69 bytes, Decompressed size: 70 bytes.
+[2024-09-08 18:41:50.579] Client 4 sent weather data: Temperature: 34.880000C, Humidity: 63.120000%, Pressure: 914.160000hPa
+[2024-09-08 18:41:50.579] Compressed size: 69 bytes, Decompressed size: 70 bytes.
+[2024-09-08 18:41:50.579] Client 1 sent weather data: Temperature: 34.880000C, Humidity: 63.120000%, Pressure: 914.160000hPa
+[2024-09-08 18:41:50.579] Compressed size: 69 bytes, Decompressed size: 70 bytes.
+[2024-09-08 18:41:50.579] Client 3 sent weather data: Temperature: 34.880000C, Humidity: 63.120000%, Pressure: 914.160000hPa
+[2024-09-08 18:41:50.579] Compressed size: 69 bytes, Decompressed size: 70 bytes.
+[2024-09-08 18:41:51.509] Received Packet 9 from Client 2
+[2024-09-08 18:41:51.509] Sent ACK for Packet 9 to Client 2
+[2024-09-08 18:41:51.509] Client 5 disconnected.
+[2024-09-08 18:41:51.510] Received Packet 9 from Client 4
+[2024-09-08 18:41:51.510] Sent ACK for Packet 9 to Client 4
+[2024-09-08 18:41:51.510] Received Packet 9 from Client 1
+[2024-09-08 18:41:51.510] Sent ACK for Packet 9 to Client 1
+[2024-09-08 18:41:51.511] Received Packet 9 from Client 3
+[2024-09-08 18:41:51.511] Sent ACK for Packet 9 to Client 3
+[2024-09-08 18:41:51.578] Client 2 sent weather data: Temperature: 27.630000C, Humidity: 35.780000%, Pressure: 920.400000hPa
+[2024-09-08 18:41:51.578] Compressed size: 69 bytes, Decompressed size: 70 bytes.
+[2024-09-08 18:41:51.579] Client 4 sent weather data: Temperature: 27.630000C, Humidity: 35.780000%, Pressure: 920.400000hPa
+[2024-09-08 18:41:51.579] Compressed size: 69 bytes, Decompressed size: 70 bytes.
+[2024-09-08 18:41:51.580] Client 1 sent weather data: Temperature: 27.630000C, Humidity: 35.780000%, Pressure: 920.400000hPa
+[2024-09-08 18:41:51.580] Compressed size: 69 bytes, Decompressed size: 70 bytes.
+[2024-09-08 18:41:51.580] Client 3 sent weather data: Temperature: 27.630000C, Humidity: 35.780000%, Pressure: 920.400000hPa
+[2024-09-08 18:41:51.580] Compressed size: 69 bytes, Decompressed size: 70 bytes.
+[2024-09-08 18:41:52.510] Received Packet 10 from Client 2
+[2024-09-08 18:41:52.510] Sent ACK for Packet 10 to Client 2
+[2024-09-08 18:41:52.511] Received Packet 10 from Client 4
+[2024-09-08 18:41:52.511] Sent ACK for Packet 10 to Client 4
+[2024-09-08 18:41:52.511] Received Packet 10 from Client 1
+[2024-09-08 18:41:52.511] Sent ACK for Packet 10 to Client 1
+[2024-09-08 18:41:52.512] Received Packet 10 from Client 3
+[2024-09-08 18:41:52.512] Sent ACK for Packet 10 to Client 3
+[2024-09-08 18:41:52.579] Client 2 sent weather data: Temperature: 37.530000C, Humidity: 41.150000%, Pressure: 926.090000hPa
+[2024-09-08 18:41:52.579] Compressed size: 69 bytes, Decompressed size: 70 bytes.
+[2024-09-08 18:41:52.580] Client 4 sent weather data: Temperature: 37.530000C, Humidity: 41.150000%, Pressure: 926.090000hPa
+[2024-09-08 18:41:52.580] Compressed size: 69 bytes, Decompressed size: 70 bytes.
+[2024-09-08 18:41:52.581] Client 1 sent weather data: Temperature: 37.530000C, Humidity: 41.150000%, Pressure: 926.090000hPa
+[2024-09-08 18:41:52.581] Compressed size: 69 bytes, Decompressed size: 70 bytes.
+[2024-09-08 18:41:52.581] Client 3 sent weather data: Temperature: 37.530000C, Humidity: 41.150000%, Pressure: 926.090000hPa
+[2024-09-08 18:41:52.581] Compressed size: 69 bytes, Decompressed size: 70 bytes.
+[2024-09-08 18:41:53.511] Client 2 disconnected.
+[2024-09-08 18:41:53.512] Client 4 disconnected.
+[2024-09-08 18:41:53.512] Client 1 disconnected.
+[2024-09-08 18:41:53.512] Client 3 disconnected.
